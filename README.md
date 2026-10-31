@@ -1,7 +1,7 @@
 # Jerboa_robot_simulation
 Jerboa Robot simulation using Mujoco
 
-1. INTRODUCTION
+**1. INTRODUCTION**
 
 The Jerboa is a small bipedal mouse like mammal. These creatures
 have elongated limbs and switch between various gaits. Our aim is to develop a foldable
@@ -10,7 +10,7 @@ a robotic system capable of performing short hops like jerboa legs, potentially 
 mechanisms like four-bar linkage and over centering mechanisms in both the legs of the
 robot.
 
-2.MANUFACTURING
+**2.MANUFACTURING**
 
 The prototyping and manufacturing process of the robot body has been done using
 LibreCAD and laser cutting techniques. We used cardstock for the links and a flexible plastic
@@ -24,7 +24,7 @@ where the laminated cardstock can fit into.
 
 ![image](https://github.com/user-attachments/assets/94ebbeaa-1038-4bac-84e3-0396be2194fa)
 
-3.BODY DESIGN
+**3.BODY DESIGN**
 
 The body of the robot is designed in such a way that it has a tail at the back that would help
 the robot in stability and balance of the robot while the main body would stay flat where the
@@ -36,8 +36,8 @@ The dimenisons of the body design are as follows:
 
 ![image](https://github.com/user-attachments/assets/409313d2-f647-40db-aab3-03d42f20cdb6)
 
-4.VALID CONFIGURATIONS FOR LINK LENGTH AND
-OPTIMIZATION
+**4.VALID CONFIGURATIONS FOR LINK LENGTH AND
+OPTIMIZATION**
 
 
 A simplified version of the kinematic model is made in order to sweep the possible joint
@@ -55,7 +55,7 @@ possible to achive as in this configuration the mechanism would just pivot and n
 strength and the configurations where the mechanism is not possible the velocity is given as
 0 an is depicted by the purple region in the plot.
 
-MUJOCO SIMULATION
+**MUJOCO SIMULATION**
 
 The code involves a body and two seperate four bar mechanism mimicking our design of the
 legs . the link 1 is attached to the body and leg link 2 is our primary link making contact with
