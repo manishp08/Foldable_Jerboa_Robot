@@ -7,7 +7,7 @@ The servos were too weak for a full jump. The physical robot lifts off the groun
 The simulation and the link-length study below show how the design was chosen.
 
 
-![yes](https://github.com/user-attachments/assets/0fa2d8cc-68e9-4e7b-a7ab-e32d03a72c5a)
+(https://github.com/user-attachments/assets/0fa2d8cc-68e9-4e7b-a7ab-e32d03a72c5a)
 
 
 **1. INTRODUCTION**
