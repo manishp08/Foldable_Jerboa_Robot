@@ -1,5 +1,14 @@
-# Jerboa_robot_simulation
-Jerboa Robot simulation using Mujoco
+# Foldable Jerboa Robot: a four-bar-linkage hopping robot
+A foldable, laser-cut robot that hops using an over-centering four-bar linkage in each leg, with its link lengths optimized in simulation (MuJoCo and SolidWorks).
+
+**OUTCOME**
+The servos were too weak for a full jump. The physical robot lifts off the ground for a very brief moment, about 2 mm, before landing.
+
+The simulation and the link-length study below show how the design was chosen.
+
+
+![yes](https://github.com/user-attachments/assets/0fa2d8cc-68e9-4e7b-a7ab-e32d03a72c5a)
+
 
 **1. INTRODUCTION**
 
